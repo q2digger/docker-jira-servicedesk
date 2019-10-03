@@ -2,7 +2,7 @@ FROM anapsix/alpine-java:8_server-jre
 
 MAINTAINER Dmitry Gerasimov <q2digger@gmail.com>
 
-ENV JIRA_VERSION 4.4.1
+ENV JIRA_VERSION 4.4.2
 
 ENV RUN_USER    daemon
 ENV RUN_GROUP   daemon
